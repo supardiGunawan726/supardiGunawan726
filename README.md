@@ -1,7 +1,6 @@
 # Hi, i'm Supardi Gunawan 👋🤓
-I am very interested in technology. therefore I feel so happy when I can implement and share the knowledge that I know. Now I enjoy being a frontend developer, some of the technologies I like are react, vue, and svelte. I am also a network engineer, I studied networking at SMKN 1 Cilaku in Cianjur, West Java.
-
-I live in Indonesia. Now, i studying at high school in SMKN 1 Cilaku Cianjur. I 17 years old when i write this. When I'm not developing and coding, you can find me watching movie and anime or listening to music.
+I am very interested in technology. therefore I feel so happy when I can implement and share the knowledge that I know. Now I enjoy being a frontend developer, some of the technologies I like react, vue, and svelte. I am also a network engineer, I studied computer networking at SMKN 1 Cilaku in Cianjur, West Java.
+I live in Indonesia. Now, I studying at high school in SMKN 1 Cilaku Cianjur. I 17 years old when I write this. When I'm not developing and coding, you can find me watching movies and anime or listening to music.
 
 <p align="center">
   <a href="https://web.facebook.com/suizen.suizen.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
