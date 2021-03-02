@@ -1,13 +1,15 @@
 # Hi, i'm Supardi Gunawan 👋🤓
-I am very interested in technology. therefore I feel so happy when I can implement and share the knowledge that I know. Now I enjoy being a frontend developer, some of the technologies I like react, vue, and svelte. I am also a network engineer, I studied computer networking at SMKN 1 Cilaku in Cianjur, West Java.
+I am very interested in technology. therefore I feel so happy when I can implement and share the knowledge that I know. Now I enjoy being a frontend developer, some of the technologies I like are react, vue, and svelte. I am also a network engineer, I studied computer networking at SMKN 1 Cilaku in Cianjur, West Java.
 I live in Indonesia. Now, I studying at high school in SMKN 1 Cilaku Cianjur. I 17 years old when I write this. When I'm not developing and coding, you can find me watching movies and anime or listening to music.
 
+<h4 align="center">Find me on</h4>
 <p align="center">
   <a href="https://web.facebook.com/suizen.suizen.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/supardi2607"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/Supardi726"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
+<h4 align="center">technologies that i familiar with</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
