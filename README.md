@@ -9,7 +9,7 @@ I live in Indonesia. Now, I studying at high school in SMKN 1 Cilaku Cianjur. I 
   <a href="https://t.me/Supardi726"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<h4 align="center">technologies that i enjoy to work withh4>
+<h4 align="center">technologies that i enjoy to work with>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
